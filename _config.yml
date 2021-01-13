@@ -92,3 +92,49 @@ hfc_favicons:
     opengraph: false
     windows: true
     yandex: false
+title: Daylight
+subtitle: Daylight Blog
+subtitle_desc: description
+# seo关键字
+keywords: minfive, minfive blog, 前端博客, 前端, 程序员, 前端开发, 全栈开发, node.js, javascript
+
+# 博客介绍（同时用于seo）
+description: 日常学习与兴趣交流的个人博客
+
+# 个人介绍
+introduction: 不思量，自难忘！
+
+# 博客的favicon图标，支持本地及在线两种方式，本地请将图标放置于 themes/hexo-theme-skapp/source/img 目录下
+favicon_ico: img/blog-logo.png
+# 博客的左上角logo图标，支持本地及在线两种方式
+logo: img/blog-logo.png
+
+# 头像/二维码（用于显示在底部）二选一
+avatar: img/blog-logo.png
+# qrcode: http://oo12ugek5.bkt.clouddn.com/images/qrcode.png
+
+# 文章的默认封面
+default_cover: img/blog-logo.png
+
+# header 的背景图
+header_cover: img/blog-logo.png
+
+# 404 页面的背景图
+error_page_bg: img/blog-logo.png
+
+# 页面加载loading图标
+loader_img: img/blog-logo.png
+
+# 站长信息
+author:
+  name: minfive
+  link: https://github.com/Mrminfive
+# 用于页面 footer 的站长信息
+about:
+  info: 本站是基于 Hexo 搭建的静态资源博客，主要用于分享日常学习、生活及工作的一些心得总结，欢迎点击右下角订阅 rss。
+  address: Guangzhou, Guangdong Province, China
+  email: chenxiaowu1994@outlook.com
+menu:
+  home: / 
+  archive: /archives
+  about: /about
